@@ -1,0 +1,104 @@
+{
+  "posts": [
+    {
+      "id": "tGfsfPgbRv",
+      "name": "Poly",
+      "tag": "React",
+      "age": 4,
+      "breed": "Russian Blue",
+      "gender": "female",
+      "color": "brown",
+      "image": "https://cdn.pixabay.com/photo/2012/11/26/13/58/cat-67345__480.jpg",
+      "likes": 100,
+      "description": "This cat is extremely loving to her owner, and hates to be apart from them. She always acts as though any new person will kill her, and she does not mind other animals. She is very slow and does not know any basic commands.She loves to play and can entertain herself for hours on end with a ball of paper.She is generally silent. She's not a picky eater. Her favourite cat food is raw chicken and she likes to eat sticky tape as well."
+    },
+    {
+      "id": "ADdOXtmyAy",
+      "name": "Ajax",
+      "tag": "HTML",
+      "age": 6,
+      "breed": "St. Bernard",
+      "gender": "male",
+      "color": "coffee",
+      "image": "https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313_1280.jpg",
+      "likes": 100,
+      "description": "This calm dog is friendly toward his owner, and does not seem to recognise his own name. He does not pay any attention to strangers, but will allow himself to be touched if you can get him, and he gets along well with other animals. He silly and does not know any basic commands.He is easily entertained and can entertain himself for hours on end with important papers.He likes to talk at his toys. He will eat any food he gets access to.His favourite dog food flavour is meat and he likes to eat elastic bands as well. He always barks when someone is at the front door."
+    },
+    {
+      "id": "kVFAFLeFxR",
+      "name": "Nooky",
+      "tag": "CSS",
+      "age": 2,
+      "breed": "German Shepherd",
+      "gender": "female",
+      "color": "dark brown",
+      "image": "https://cdn.pixabay.com/photo/2016/01/29/20/54/dog-1168663_1280.jpg",
+      "likes": 100,
+      "description": "This excitable dog is aloof toward her owner, and will sit and stare when called, but won't always come.She is not afraid of strangers, and she does not mind other animals. She smart and knows some basic commands.She loves to play and is always willing; playtime is very hectic. She's a very picky eater and is underweight as a result. Her favourite dog food flavour is chicken and she likes to eat bread. She also likes to eat clay."
+    },
+    {
+      "id": "6VrrgseoKq",
+      "name": "Peaches",
+      "tag": "CSS",
+      "age": 2,
+      "breed": "Birman",
+      "gender": "female",
+      "color": "white",
+      "image": "https://cdn.pixabay.com/photo/2016/03/28/10/05/kitten-1285341_1280.jpg",
+      "likes": 100,
+      "description": "This cat is loyal to her owner, and hates to be apart from them. She loves to meet new people, and she gets along well with other animals. She is moderately bright and can easily find all but the most well- hidden treats.She is easily entertained and can entertain herself for hours on end with any items found on the floor. She's only quiet when she's asleep or up to something. She's an extremely picky eater and will rarely even taste new foods. Her favourite cat food flavour is fish."
+    },
+    {
+      "id": "yEn-hggVuU",
+      "name": "Dexter",
+      "tag": "JavaScript",
+      "age": 7,
+      "breed": "Doberman",
+      "gender": "male",
+      "color": "black",
+      "image": "https://cdn.pixabay.com/photo/2016/04/17/10/38/doberman-1334497_1280.jpg",
+      "likes": 100,
+      "description": "This chill dog is extremely loving to his owner, and will follow them around the house. He is generally friendly but may bite without warning, and he does not mind other animals. He extremely bright and knows some basic commands. He is easily entertained and is always willing; he sometimes scratches a bit too hard though. He's quiet until he's hungry. He's a very picky eater. His favourite dog food brand is a cheap canned variety. He will immediately destroy any letters that are posted, if he gets to them first."
+    },
+    {
+      "id": "ucl8JdGVWF",
+      "name": "Boomer",
+      "tag": "JavaScript",
+      "age": 4,
+      "breed": "Bullmastiff",
+      "gender": "male",
+      "color": "dark brown",
+      "image": "https://cdn.pixabay.com/photo/2015/05/24/22/33/dog-782498_1280.jpg",
+      "likes": 100,
+      "description": "This dog is extremely loyal to his owner, and will always come immediately when called. He is generally friendly but may snarl without warning, and he gets along well with other animals. He slightly intelligent and can easily find all but the most well- hidden treats.He loves to play and can entertain himself for hours on end with his food.He's usually silent except when he wants something. He's not a picky eater. His favourite dog food flavour is meat and he likes to eat plastic beads as well"
+    },
+    {
+      "id": "Mm2weW3qYl",
+      "name": "Misty",
+      "tag": "JavaScript",
+      "age": 4,
+      "breed": "Ocicat",
+      "gender": "female",
+      "color": "dark brown",
+      "image": "https://cdn.pixabay.com/photo/2015/06/19/14/20/cat-814952_1280.jpg",
+      "likes": 100,
+      "description": "This cat is loving to her owner, and does not seem to recognise her own name. She always hides from strangers, and she does not mind other animals. She is extremely smart and very crafty.She is easily entertained and can entertain herself for hours on end with any items found on the floor.She seems to like to making noise for the sake of it. She's overweight, loves to eat, and will eat any food she gets access to. Her favourite cat food brand is a cheap dry variety and she likes to eat hair as well. She will always go on the kitchen counters when no one is looking."
+    },
+    {
+      "text": "dasd",
+      "tag": "css",
+      "id": "Zcc1Y1a"
+    },
+    {
+      "description": "dsad",
+      "tag": "css",
+      "id": "xEi7ek4"
+    },
+    {
+      "description": "csds",
+      "tag": "css",
+      "id": "moWiGNJ"
+    }
+  ],
+  "comments": []
+}
